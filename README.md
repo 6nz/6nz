@@ -1,9 +1,9 @@
-### Python Specialist 😎
+### Python Developer 😎
 [![Website](https://cdn.dribbble.com/users/612987/screenshots/10737474/media/e0f82885392ca506dfcb15d35efdacdb.jpg?compress=1&resize=800x600)](https://www.python.org/downloads/release/python-380/)
 
 
 
-## Yo, I'm [Marci] [discord] 👋
+## Yo, I'm Marci👋
 
 [![Website](https://logos-world.net/wp-content/uploads/2020/11/Discord-Logo-700x394.png)](https://discord.com/users/806418858167894026/profile)
 <br />
