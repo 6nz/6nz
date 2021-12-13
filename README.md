@@ -1,5 +1,4 @@
 ### Python Developer 😎
-[![Website](https://cdn.dribbble.com/users/612987/screenshots/10737474/media/e0f82885392ca506dfcb15d35efdacdb.jpg?compress=1&resize=800x600)](https://www.python.org/downloads/release/python-380/)
 
 
 # Profile views
@@ -7,7 +6,7 @@
 
 ## Yo, I'm Marci👋
 
-[![Website](https://logos-world.net/wp-content/uploads/2020/11/Discord-Logo-700x394.png)](https://discord.com/users/856870363480457226/profile)
+[![Website](https://logos-world.net/wp-content/uploads/2020/11/Discord-Logo-700x394.png)](https://discord.com/users/913148510709358652/profile)
 <br />
 
 ### Languages and Tools:
