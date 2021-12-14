@@ -2,7 +2,7 @@
 
 
 # Profile views
-![Views](https://komarev.com/ghpvc/?username=KAMKAZEMARCI)
+![Views](https://gpvc.arturio.dev/6nz)
 
 ## Yo, I'm Marci👋
 
