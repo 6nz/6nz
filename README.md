@@ -6,7 +6,7 @@
 
 ## Yo, I'm Marci👋
 
-[![Website](https://logos-world.net/wp-content/uploads/2020/11/Discord-Logo-700x394.png)](https://discord.com/users/913148510709358652/profile)
+[![Website](https://logos-world.net/wp-content/uploads/2020/11/Discord-Logo-700x394.png)](https://discord.com/users/968943064662028298/profile)
 <br />
 
 ### Languages and Tools:
