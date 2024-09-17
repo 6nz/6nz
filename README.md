@@ -1,9 +1,6 @@
-### Python Developer 😎
+### Python Developer
 
-
-# Contant for KeyAuth cracking,py reverse engineering
-
-## Yo, I'm Marci👋
+## Discord below
 
 [![Website](https://logos-world.net/wp-content/uploads/2020/11/Discord-Logo-700x394.png)](https://discord.com/users/1113387848310194216/profile)
 <br />
